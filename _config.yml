@@ -1,0 +1,21 @@
+title: Trevor Wong
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a computer engineering major studying at the University of Illinois at
+  Urbana-Champaign. I have a bredth of skills including soldering, breadboard
+  prototyping, software engineering, and managing cloud server infrastructure.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://twong.dev" # the base hostname & protocol for your site, e.g. http://example.com
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: 'check out my <a href="https://github.com/CaptnSisko/">github</a>'
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
