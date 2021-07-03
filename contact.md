@@ -5,14 +5,13 @@ permalink: /contact
 ---
 # Get in touch?
 
-<form action="https://mailthis.to/kpxzsyovvzmsbkiiwmbstimjqyaaczmw"
-    method="POST" encType="multipart/form-data">
+<form action="https://formsubmit.co/79e67e0c278ab8b4d988fe76d72d2ecd" method="POST">
     <input type="text" name="name" placeholder="Your name" required>
-    <input type="email" name="_replyto" placeholder="Your email" required>
+    <input type="email" name="email" placeholder="Your email" required>
     <textarea name="message" placeholder="Enter your message here" required></textarea>
     <input type="hidden" name="_subject" value="Contact form submitted">
-    <input type="hidden" name="_after" value="https://twong.dev/">
-    <input type="hidden" name="_honeypot" value="">
-    <input type="hidden" name="_confirmation" value="">
+    <input type="hidden" name="_next" value="https://twong.dev/thanks">
+    <input type="hidden" name="_honey" value="">
+    <input type="hidden" name="_autoresponse" value="Thanks for reaching out!">
     <input type="submit" value="Send">
 </form>
