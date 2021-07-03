@@ -17,4 +17,4 @@ footer: 'check out my <a href="https://github.com/CaptnSisko/">github</a>'
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: CaptnSisko/jekyll-theme-console

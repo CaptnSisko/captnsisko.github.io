@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2021-06-30
-categories: personal testing
+categories: blog
 ---
 Hello World! I am not sure whether anyone will read these, but since you are here now... hello!
 
