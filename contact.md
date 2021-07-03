@@ -16,4 +16,3 @@ permalink: /contact
     <input type="hidden" name="_confirmation" value="">
     <input type="submit" value="Send">
 </form>
-
