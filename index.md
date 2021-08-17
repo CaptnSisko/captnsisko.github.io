@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+This site is a compilation of my random thoughts and projects

@@ -4,6 +4,8 @@ title:  "Hello World"
 date:   2021-06-30
 categories: blog
 ---
+# Hello World
+
 Hello World! I am not sure whether anyone will read these, but since you are here now... hello!
 
 When creating this website, I was considering creating some fancy animation in three.js or having some complex continuous integration with AWS Cloudfront. Realistically, though, a simple Github pages site is much easier for me to maintain. Besides, it would be kind of egotistical to spend a long time on a portfolio site instead of writing code that is actually useful.
